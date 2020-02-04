@@ -1,30 +1,26 @@
-# This is a large heading
+# Chris Hildum
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in the city of San Francisco, in the state of California, in the United States of America.
 
-- This is
-- an unordered
-- list
+### Music
 
-1. This is
-2. an ordered
-3. list
+Three of my most played songs of 2019 are:
 
-Here is `some code` in the middle of a sentence.
+- *The London* by Young Thug, J. Cole, and Travis Scott
+- *Gold Roses* by Rick Ross and Drake
+- *CrasH* by ScHoolboy Q
 
-```
-This is
-a block
-of code
-```
+### Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Last night I dreamt about eating in these restaurants:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Donburiya in New York City
+2. The Royal Rooster in Denver
+3. El Farolito in San Francisco
 
-nano README.md
+### Contact
+
+The best way to get in touch with me is [on Twitter](https://twitter.com/chris_hildum).
+
